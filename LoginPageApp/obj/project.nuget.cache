@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hQkmwnvyxRJA4gqZyc4OCDkHL8a0/SsaY2Itmmll13dVkqwwkRBrJ5254rAWLHaNeiJnr/A7F5iUaCFqlcs5aA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cjonk\\OneDrive\\Desktop\\Courses\\Oak Academy - Xamarin\\LoginPageApp\\LoginPageApp\\LoginPageApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cjonk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cjonk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cjonk\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cjonk\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cjonk\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
